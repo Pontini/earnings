@@ -14,3 +14,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Earnings"
 include ':app'
+include ':app:features'
